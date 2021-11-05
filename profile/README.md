@@ -10,7 +10,7 @@ The [Fauna Schema Migrate](https://github.com/fauna-labs/fauna-schema-migrate) (
 
 ### Fauna Workers template
 
-This template helps you build a fast, globally distributed REST API using [Cloudflare Workers](https://workers.cloudflare.com) and Fauna. It uses Fauna Schema Migrate to deploy resources to your Fauna database and implements recommended practices for building with Fauna, including restricting access to the database through [user-defined functions](https://docs.fauna.com/fauna/current/learn/understanding/user_defined_functions) (UDFs) and least-privilege roles.
+[This template](https://github.com/fauna-labs/fauna-workers) helps you build a fast, globally distributed REST API using [Cloudflare Workers](https://workers.cloudflare.com) and Fauna. It uses Fauna Schema Migrate to deploy resources to your Fauna database and implements recommended practices for building with Fauna, including restricting access to the database through [user-defined functions](https://docs.fauna.com/fauna/current/learn/understanding/user_defined_functions) (UDFs) and least-privilege roles.
 
 ### Fauna Serverless Framework plugin
 
